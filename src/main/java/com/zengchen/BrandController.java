@@ -7,15 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
  * @program: demo
  * @description:
  * @author: Zengchen
- * @create: 2018-11-08 14:28
+ * @create: 2018-11-08 14:36
  **/
 @RestController
-public class UserController {
+public class BrandController {
 
 
-    @RequestMapping
-    public String findAll() {
-        //我是后台，我改了这里666
-        return null;
-    }
 }
